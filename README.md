@@ -4,4 +4,4 @@
 
 ## docs
 
-+ [cookie 知识点](https://mengdu.github.io/posts/docs/cookie.md) (2019-03-21)
++ [cookie 知识点](https://mengdu.github.io/posts/docs/cookie) (2019-03-21)
